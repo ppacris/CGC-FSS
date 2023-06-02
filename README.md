@@ -1,9 +1,9 @@
 
-# CGC- FSS
+# <h1 id="top">CGC- FSS</h1>
 
 CGC-FSS is a scheduling system built for CGC (CITI Global College) that allows the scheduler to automate the scheduling process. Deployed on ph.000webhost.
 
-<i id='top'>**Demo Account:**</i>
+<i>**Demo Account:**</i>
 <br/>`Username: demo`
 <br/>`Password: demo1234$`
 
