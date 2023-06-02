@@ -11,7 +11,7 @@ CGC-FSS is a scheduling system built for CGC (CITI Global College) that allows t
 
 ## Algorithm
 
-Binary Search Algorithm used to process scheduling.
+Binary Search Algorithm used to automate scheduling process.
 
 ```bash
   function binarySearch(arr, x) {
