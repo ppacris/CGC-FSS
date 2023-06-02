@@ -62,7 +62,9 @@ Binary Search Algorithm used to automate scheduling process.
 ###
 <details>
   <summary>See more</summary>
+	
   ###
+	
  * [Datatables.net](https://datatables.net/)
  * [html2canvas](https://html2canvas.hertzen.com/)
  * [PHPMailer](https://github.com/PHPMailer/PHPMailer)
