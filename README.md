@@ -35,23 +35,6 @@ Binary Search Algorithm used to process scheduling.
 }
 ```
 
-
-## Features
-
-- Instructor Module
-- Curriculum Management Module
-- Maintenance Management Module
-- Report Module
-- Timetable Module
-
-
-## Screenshots
-- Log in
-![App Screenshot](https://ppacris.github.io/portfolio/assets/image/cgc-fss_login.png)
-
-- Home page
-![App Screenshot](https://ppacris.github.io/portfolio/assets/image/cgc-fss_home.png)
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -77,3 +60,20 @@ Binary Search Algorithm used to process scheduling.
 </div>
 
 ###
+
+
+## Features
+
+- Instructor Module
+- Curriculum Management Module
+- Maintenance Management Module
+- Report Module
+- Timetable Module
+
+
+## Screenshots
+- Log in
+![App Screenshot](https://ppacris.github.io/portfolio/assets/image/cgc-fss_login.png)
+
+- Home page
+![App Screenshot](https://ppacris.github.io/portfolio/assets/image/cgc-fss_home.png)
