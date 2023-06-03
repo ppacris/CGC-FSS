@@ -35,7 +35,7 @@ Binary Search Algorithm used to automate scheduling process.
 }
 ```
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
