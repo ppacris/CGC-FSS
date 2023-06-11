@@ -11,7 +11,7 @@ CGC-FSS is a scheduling system built for CGC (CITI Global College) that allows t
 
 ## Algorithm
 
-Binary Search Algorithm applied to `Timetable Module` to identify if Instructor Schedule (day & time) matches to `Course Schedule`.
+Binary Search Algorithm applied to `Timetable Module` to identify if <i>Instructor Schedule (day & time)</i> matches to `Course Schedule`.
 
 ```bash
   function binarySearch(arr, x) {
