@@ -61,7 +61,7 @@ Binary Search Algorithm used to automate scheduling process.
 
 ###
 <details>
-  <summary>See more</summary>
+  <summary>Library</summary>
 	
   ###
 	
